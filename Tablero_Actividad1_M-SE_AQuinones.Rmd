@@ -5,9 +5,9 @@ output:
   #github_document:
   flexdashboard::flex_dashboard:
     theme:
-      bg: "#101010"
-      fg: "#FDF7F7" 
-      primary: "#87CEFA"
+      bg: "#9FB6CD"
+      fg: "#00008B" 
+      primary: "#27408B"
       base_font:
         google: Prompt
       code_font:
@@ -111,6 +111,16 @@ knitr::include_graphics("carrera1.png")
 **10.07 K** Participantes desde los 15 años en adelante.
 
 **Salida**: Hotel Intercontinental, calle 5, Carrera 6, carrera 4c, carrera1, carrera 4, calle de la escopeta, museo arqueológico la merced, bulevar del rio, puente Ortiz, av 2N, parque lineal rio Cali av2n, calle 25, parque lineal av1n, calle 13, carrera 1 calle 12, carrera 5, calle 10, gobernación del valle, edificio Aristi carrera 9, calle 9 plazoleta de san francisco, bulevar del rio, calle 8, carrera 4, carrera 3ª, parque del peñón, carrera 3, carrera 3ª oeste, calle 5 oeste, carrera 4, av Belalcázar, carrera 2ª oeste, librería nacional, carrera 1c, museo la tertulia, av Colombia, pepe ganga, carrera 3, carrera 2, carrera 3ª, av Colombia, carrera 4, meta hotel intercontinental. [juanchocorrelon.com](https://juanchocorrelon.com/intercontinental-10k-luz-2022/#10k)
+
+
+### Análisis:
+$$**Análisis**$$
+La carrera de la luz de 2022, fue un espacio de sana competencia en el que participaron 1922 personas de diferentes partes del país y de otros paises como Venezuela y Alemania (DEU), entre mujeres y hombres de distintas edades, desde los 15 años, e incluso personas con algún grado de discapacidad, realizado en Cali - Colombia. 
+
+Ya enfocándonos un poco en los resultados del análisis exploratorio realizado, encontramos que, de las cinco categorías, la categoría abierta obtuvo la mayor cantidad de participantes, como era probablemente esperado, no obstante, llama la atención como la categoría juvenil contó con tan 'pocos' corredores. En cuanto al sexo, se evidencia que, las mujeres tienen mejores promedios (media: 61.9 cat. Abierta) frente a los hombres (media: 70.1 cat. Abierta). Incluso los tiempos mínimos son mejores en las mujeres. Todo esto, a pesar de que, el porcentaje de participación de hombres (61.3%) fuera mayor que el de las mujeres con un 38.7%, lo que haría pensar que existiría una probabilidad aparente de encontrar más participantes hombres con las capacidades para superar a las mujeres. 
+
+
+
 
 Column {data-width=350}
 -----------------------------------------------------------------------
